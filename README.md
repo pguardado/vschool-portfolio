@@ -24,10 +24,4 @@ This repository serves as both a **learning archive** and a **portfolio showcase
 
 ---
 
-## ⚙️ How to Use
 
-To clone and explore the repository:
-
-```bash
-git clone https://github.com/pguardado/vschool-portfolio.git
-cd vschool-portfolio
